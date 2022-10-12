@@ -1,0 +1,29 @@
+.container.main-dashboard {
+	text-align: center;
+	padding: 2em 0;
+	border: 3px solid;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+#listActivity {
+	text-align: center;
+}
+
+#listActivity ol {
+	padding: 15px 0;
+}
+
+#tasks-lists {
+	display: inline-block;
+}
+
+#error {
+	padding-top: 15px;
+	color: red;
+	font-size: 22px;
+}
+
+.delBtn {
+	margin-left: 5px;
+}
